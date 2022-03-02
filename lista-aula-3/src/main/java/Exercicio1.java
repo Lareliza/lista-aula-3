@@ -7,8 +7,8 @@ public class Exercicio1 {
         int total = z1+z2+z3;
         int media = total/3;
 
-        System.out.println("Total:"+total);
-        System.out.println("Media:"+media);
+        System.out.printf("Total:"+total);
+        System.out.printf("Media:"+media);
 
     }
 }
